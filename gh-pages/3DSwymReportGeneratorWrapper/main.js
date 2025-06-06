@@ -1,1 +1,1 @@
-window.location.href = '../3DSwymReportGenerator/index.html';
+// Optional redirect logic if needed
