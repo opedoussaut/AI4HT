@@ -1,0 +1,9 @@
+{
+  "name": "3DSwymReportGeneratorWrapper",
+  "description": "Wrapper widget to load the GitHub-hosted 3DSwym Report Generator in an iframe",
+  "category": "AI Widgets",
+  "require": [],
+  "icon": "3DSwymReportGeneratorWrapper.png",
+  "x3dPlatformVersion": "R2024x",
+  "entry": "main.js"
+}
