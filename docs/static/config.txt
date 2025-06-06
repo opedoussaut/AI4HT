@@ -1,4 +1,0 @@
-# SWYM GPT Report Configuration
-# Format: <type>|<url>
-conversation|https://dsext001-eu1-215dsi0708-3dswym.3dexperience.3ds.com/dm/swym:215dsi0708:DSEXT001:community:rt:619005
-community|https://dsext001-eu1-215dsi0708-3dswym.3dexperience.3ds.com/community/swym:215dsi0708:DSEXT001:community:h01gCSYGTiuFEQHxACPNjQ
